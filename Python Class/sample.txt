@@ -1,0 +1,7 @@
+this is the first line
+hello
+how are you
+what a beautiful program
+white line
+white space
+nothing
